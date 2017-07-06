@@ -29,7 +29,7 @@ recipe:
     1. Dice and saut&eacute; the onion
     2. Add the crushed garlic and spices. Cook for 5 minutes.
     3. Add the diced tomatoes and black beans. Cook for 10 minutes.
-    4. Combine the brown sugar, lemon juice, salt and red wine vinegar.
+    4. Combine with the brown sugar, lemon juice, salt and red wine vinegar.
     5. Create 5 pockets and add the eggs. Sprinkle the Feta on top and cover until the eggs are cooked.
 ---
 
