@@ -4,7 +4,7 @@ categories:
   - Vegetarian
   - Israeli
   - Eggs
-date:
+date: 2017-07-05 19:40:38
 featured_image: /uploads/img-20170705-190241.jpg
 recipe:
   servings: '3'
@@ -32,3 +32,5 @@ recipe:
     4. Combine the brown sugar, lemon juice, salt and red wine vinegar.
     5. Create 5 pockets and add the eggs. Sprinkle the Feta on top and cover until the eggs are cooked.
 ---
+
+
