@@ -1,0 +1,15 @@
+<section class="posts">
+	{% for post in include.posts %}
+		<article class="post">
+			<a href="{{ post.url }}">
+				<div class="image">
+					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+				</div>
+				<h1>{{ post.title }}</h1>
+			</a>
+		</article>
+	{% endfor %}
+	<article class="post"></article>
+	<article class="post"></article>
+	<article class="post"></article>
+</section>

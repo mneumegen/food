@@ -16,8 +16,8 @@ recipe:
     * 400g white fish (Tilapia)
     * 2 tsp ground cumin
     * 2 tsp ground turmeric
-    * 2tsp garam masala
-    * 2tsp ground coriander
+    * 2 tsp garam masala
+    * 2 tsp ground coriander
     * 400g diced tomatoes
     * 2 cups of mixed vegetables/stirfry mix
     * 1 vegetable stock cube
