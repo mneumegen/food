@@ -23,12 +23,12 @@ recipe:
     * 1 vegetable stock cube
     * 1 can of coconut milk
   directions_markdown: |-
-    * Cook coconut oil on medium heat
-    * Cut up onion and cook for 10 minutes
-    * Add garlic and spices and leave for 5 minutes
-    * Add tomatoes, vegetables, coconut milk, stock cube and 1 cup of water
-    * Bring the boil and simmer for 15 minutes
-    * Add the fish and cook for 8 minutes
+    1. Cook coconut oil on medium heat
+    2. Cut up onion and cook for 10 minutes
+    3. Add garlic and spices and leave for 5 minutes
+    4. Add tomatoes, vegetables, coconut milk, stock cube and 1 cup of water
+    5. Bring the boil and simmer for 15 minutes
+    6. Add the fish and cook for 8 minutes
 ---
 
 
