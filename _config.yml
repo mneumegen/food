@@ -19,6 +19,7 @@ social:
   name: Treat Template
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
+imgix: 'https://mikeneumegen.imgix.net'
 
 # -----
 # Build
