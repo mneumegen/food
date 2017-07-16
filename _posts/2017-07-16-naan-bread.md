@@ -1,6 +1,7 @@
 ---
 title: Naan Bread
 categories:
+  - Vegetarian
 date: 2017-07-16 00:00:00
 featured_image: /uploads/dsc-0023.jpg
 recipe:
