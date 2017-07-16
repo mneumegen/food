@@ -4,7 +4,7 @@ categories:
   - Curry
   - Vegetarian
 date: 2017-04-20 21:34:00
-featured_image: /uploads/img-20170420-205119.jpg
+featured_image: /uploads/dsc-0040.jpg
 recipe:
   servings: '2'
   prep: 10 minutes
