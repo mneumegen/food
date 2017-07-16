@@ -10,7 +10,7 @@ recipe:
   prep: 10 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 2 Tbsp coconut oil
+    * 2 tbsp coconut oil
     * 1 onion
     * 4 tomatoes
     * 4 cloves of garlic
@@ -23,6 +23,7 @@ recipe:
     * 1 tsp coriander powder
     * 1 tsp cardamom powder
     * 1 tsp cumin powder
+    * 1 tsp salt
     * 1/2 tsp garam masala
     * 1/2 tsp turmeric powder
     * 0 to 1 1/2 tsp chili powder (to taste)
@@ -33,7 +34,7 @@ recipe:
 
     3. Take the mixture out of the pan and blend until smooth.
 
-    4. Heat another 1 Tbsp of coconut oil in a pan. Add the spices and garlic.
+    4. Heat another 1 tbsp of coconut oil in a pan. Add the spices and garlic.
     Cook on low for 3 minutes.
 
     5. Add the blended mixture and peas to the pan with a 1/4 cup of water.
