@@ -1,12 +1,12 @@
 ---
 title: Naan Bread
 categories:
-date:
-featured_image:
+date: 2017-07-16 00:00:00
+featured_image: /uploads/dsc-0023.jpg
 recipe:
-  servings:
-  prep:
-  cook:
+  servings: '8'
+  prep: 45 minutes
+  cook: 10 minutes
   ingredients_markdown: |-
     * 2 tsp yeast
     * 1.5 cup warm water
