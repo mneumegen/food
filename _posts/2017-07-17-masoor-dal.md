@@ -3,6 +3,7 @@ title: Masoor Dal
 categories:
   - Indian
   - Dal
+  - Vegetarian
 date: 2017-07-17 00:00:00
 featured_image: /uploads/dsc-0046.jpg
 recipe:
