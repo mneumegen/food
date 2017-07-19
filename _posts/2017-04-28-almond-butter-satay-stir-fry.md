@@ -4,7 +4,7 @@ categories:
   - Vegetarian
   - stir-fry
 date: 2017-04-28 15:28:00
-featured_image: /uploads/img-20170427-202628.jpg
+featured_image: /uploads/dsc-0064.jpg
 recipe:
   servings: '3'
   prep: 5 minutes
@@ -24,7 +24,7 @@ recipe:
     * 1 onion
     * 3 cloves garlic
     * 1 packet tofu
-    * 2 cup mixed vegetables
+    * 5 cup mixed vegetables
   directions_markdown: |-
     **Sauce**
 
