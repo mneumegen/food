@@ -3,7 +3,7 @@ title: Tortilla
 categories:
   - Mexican
 date:
-featured_image:
+featured_image: /uploads/dsc-0294.jpg
 recipe:
   servings: '8'
   prep: 20 mins
