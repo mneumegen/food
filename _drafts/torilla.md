@@ -1,6 +1,7 @@
 ---
-title: Torilla
+title: Tortilla
 categories:
+  - Mexican
 date:
 featured_image:
 recipe:
