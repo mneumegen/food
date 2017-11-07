@@ -3,7 +3,7 @@
 		<article class="post">
 			<a href="{{ post.url }}">
 				<div class="image">
-					<img src="{% if jekyll.environment == 'production' %}{{ site.imgix }}{% endif %}{{ post.featured_image }}?w=600&h=600&crop=focalpoint&fit=crop&auto=format" alt="{{ post.title }}">
+					<img src="{{ post.featured_image }}?w=600&h=600&crop=focalpoint&fit=crop&auto=format" alt="{{ post.title }}">
 				</div>
 				<h1>{{ post.title }}</h1>
 			</a>
