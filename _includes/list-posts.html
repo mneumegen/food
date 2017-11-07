@@ -2,9 +2,7 @@
 	{% for post in include.posts %}
 		<article class="post">
 			<a href="{{ post.url }}">
-				<div class="image">
-					<img src="{{ post.featured_image }}?w=600&h=600&crop=focalpoint&fit=crop&auto=format" alt="{{ post.title }}">
-				</div>
+				<div class="image" style="background-image: url('{{ post.featured_image }}')"></div>
 				<h1>{{ post.title }}</h1>
 			</a>
 		</article>
