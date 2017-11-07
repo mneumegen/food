@@ -17,9 +17,10 @@
 			}
 			
 			.image {
-	            width: 600px;
-	            height: 600px;
-	            background-position: contain;
+	                width: 300px;
+                    height: 300px;
+                    background-size: cover;
+                    background-position: center center;
 	        }
 		}
 	}
