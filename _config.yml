@@ -37,6 +37,7 @@ defaults:
       push_sidebar_down: true
       print_stylesheet: true
       comments: true
+      _hide_content: true
   -
     scope:
       path: ""
