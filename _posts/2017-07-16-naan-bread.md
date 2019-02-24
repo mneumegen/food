@@ -10,16 +10,22 @@ recipe:
   cook: 10 minutes
   ingredients_markdown: |-
     * 2 tsp yeast
-    * 1.5 cup warm water
-    * 1 tbsp sugar
-    * 3 cup bread flour
+    * 1/2 cup warm water
+    * 1 tsp sugar
+    * 2 1/4 cup bread flour
+    * 1/2 yogurt
     * 1 tsp salt
-  directions_markdown: |-
-    1. Combine yeast, sugar and warm water. Leave for 5 minutes until frothy.
-    2. Add flour and salt. Knead for 5 minutes.
-    3. Put the dough in a bowl and leave in a warm place for 30-45 minutes.
-    4. Take golf ball sized pieces of dough and roll out till flat.
-    5. Grill dough with oil until brown on each side.
+  directions_markdown: >-
+    1. Combine yeast, sugar and warm water. Leave for 10 minutes until frothy.
+
+    2. Add flour, yogurt & salt. Knead for 5 minutes.
+
+    3. Put the dough in a bowl and leave in a warm place for 1 hour.
+
+    4. Divide the dough into 8 portions and roll flat using a rolling pin.
+
+    5. Lightly oil a frying pan/skillet and heat on high. Place the dough on the
+    skillet, when it puffs up flip. Repeat for the remainder of dough.
 ---
 
 
